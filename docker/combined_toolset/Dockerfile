@@ -1,7 +1,7 @@
 
 # Docker image file that describes an Ubuntu16.04 image with Azure PowerShell installed from Microsoft APT Repo, as well as the Xplat CLI.
 #  Adapted in part from https://raw.githubusercontent.com/jldeen/SVCC-AzureMgmtxplat/master/install/16.04/ps6.14_16.04_install.sh
-
+#
 
 FROM ubuntu:xenial
 MAINTAINER Kodiak Firesmith <kodiak@firesmith.org>
